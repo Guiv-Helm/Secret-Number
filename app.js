@@ -11,7 +11,7 @@ function showText(tag, text) {
 
 function initialText() {
     showText('h1', 'Secret Number Game');
-    showText('p', 'Make Your Guess from 1 to 10');
+    showText('p', `Make Your Guess from 1 to ${maxNumber}`);
 }
 
 initialText()

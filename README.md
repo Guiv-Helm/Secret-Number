@@ -12,7 +12,7 @@
   
 ### :construction:  Under Development  :construction:
 <p>
-  A simple Guessing Game made as path to lear how to code JS
+  A simple Guessing Game made as path to learn how to code JS
 </p>
 
 
